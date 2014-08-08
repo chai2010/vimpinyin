@@ -50,4 +50,8 @@ TODO部分
 效果图
 -----
 
-TODO
+![](https://raw.githubusercontent.com/chai2010/vimpinyin/master/doc/1.png)
+![](https://raw.githubusercontent.com/chai2010/vimpinyin/master/doc/2.png)
+![](https://raw.githubusercontent.com/chai2010/vimpinyin/master/doc/3.png)
+![](https://raw.githubusercontent.com/chai2010/vimpinyin/master/doc/4.png)
+
